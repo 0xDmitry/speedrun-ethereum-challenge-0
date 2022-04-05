@@ -1,3 +1,5 @@
+Deployed at https://imperfect-cannon69.surge.sh/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
