@@ -1,4 +1,4 @@
-Deployed at https://imperfect-cannon69.surge.sh/
+You can try it here: https://imperfect-cannon69.surge.sh/
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
